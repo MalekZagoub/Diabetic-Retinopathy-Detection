@@ -1,5 +1,4 @@
 # Diabetic-Retinopathy-Detection
-# Early-Detection-of-Alzheimer-s-Disease
 
 <p align="center">
   <img src="https://www.mdpi.com/diagnostics/diagnostics-12-00540/article_deploy/html/images/diagnostics-12-00540-g001.png" alt="image" width="500">
